@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/KeyPass/src/EmptyStringException.java</file>
+            <file>file:/D:/KeyPass/src/CryptoService.java</file>
+            <file>file:/D:/KeyPass/src/MasterPassword.java</file>
+            <file>file:/D:/KeyPass/src/KeyPass.java</file>
+            <file>file:/D:/KeyPass/src/BasePassword.java</file>
+            <file>file:/D:/KeyPass/src/AESCryptoService.java</file>
+            <file>file:/D:/KeyPass/src/ConsolePasswordManager.java</file>
+            <file>file:/D:/KeyPass/src/CryptoException.java</file>
+            <file>file:/D:/KeyPass/src/FileStorageService.java</file>
+            <file>file:/D:/KeyPass/src/StorageException.java</file>
+            <file>file:/D:/KeyPass/src/Password.java</file>
+            <file>file:/D:/KeyPass/src/StorageService.java</file>
+        </group>
+    </open-files>
+</project-private>
